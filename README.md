@@ -20,7 +20,7 @@
  Clone this repository:
    git clone https://github.com/your-username/ Roll-n-Win-Game.git
 
-Dicee-Game/
+ Roll-n-Win/
 ├── index.html          # Main HTML file
 ├── styles.css          # CSS file for styling
 ├── indexmain.js        # JavaScript file for game logic
